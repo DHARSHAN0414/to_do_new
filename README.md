@@ -22,7 +22,7 @@ Installation
 1.	Clone the repository
 ```bash
 git clone https://github.com/DHARSHAN0414/to_do_new.git
-cd collab_todo
+cd to_do_new
 ````
 2. Install Dependencies
 ```bash
@@ -38,10 +38,19 @@ flutter pub get
 - If not, run: `flutterfire configure`
 
 # Running the App
+
+- Make sure your device is connected with USB debugging enabled.
+
 Android
 ```bash
 flutter run
 ```
+
+- You can also build the APK and install it and run the app by running the below command:
+```bash
+flutter build apk -release
+```
+
 🏗️ Project Structure
 ```
 lib/
