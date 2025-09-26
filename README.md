@@ -86,8 +86,8 @@ Firebase Setup
 - Deep Links: Validated URL schemes prevent malicious links
 
 ## Troubleshooting
-####Common Issues
-Firebase connection errors
+### Common Issues
+#### Firebase connection errors
 - Verify Firebase configuration files are in correct locations
 - Check Firebase project settings and enabled services
 - Ensure internet connectivity
