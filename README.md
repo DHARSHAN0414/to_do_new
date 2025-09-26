@@ -22,7 +22,7 @@ A modern, collaborative to-do application built with Flutter and Firebase. Share
 Installation
 1.	Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/DHARSHAN0414/to_do_new.git
 cd collab_todo
 ````
 2. Install Dependencies
