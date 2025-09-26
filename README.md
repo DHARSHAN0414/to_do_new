@@ -2,8 +2,7 @@
 A modern, collaborative to-do application built with Flutter and Firebase. Share tasks with others, manage your productivity, and stay organized with real-time synchronization across all your devices.
 
 # Features  
-- 🔐 Authentication: Secure sign-in with Google OAuth  
-- 📱 Cross-Platform: Runs on Android and Windows  
+- 🔐 Authentication: Secure sign-in with Google OAuth
 - 🤝 Real-time Collaboration: Share tasks with others and see updates instantly  
 - 🎨 Modern UI: Beautiful, responsive design with dark/light theme support  
 - 📊 Task Management: Create, edit, complete, and delete tasks   
