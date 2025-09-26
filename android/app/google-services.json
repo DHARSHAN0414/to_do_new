@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688949986759",
+    "project_id": "task-schedule-33122",
+    "storage_bucket": "task-schedule-33122.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688949986759:android:28d8986b18a809e0a445e2",
+        "android_client_info": {
+          "package_name": "com.example.collab_todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX0K_IO90qvG021Qf4-J-yCH4zp2RRQoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
